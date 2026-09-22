@@ -4,6 +4,7 @@ PackageIdentifier: resonite-love.RESOLauncher
 PackageVersion: 1.11.1
 InstallerType: nullsoft
 Scope: user
+ProductCode: RESO Launcher
 ReleaseDate: 2026-09-14
 Installers:
   - Architecture: x64
