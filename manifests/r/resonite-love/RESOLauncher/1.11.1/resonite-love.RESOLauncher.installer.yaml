@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: resonite-love.RESOLauncher
+PackageVersion: 1.11.1
+InstallerType: nullsoft
+Scope: user
+ReleaseDate: 2026-09-14
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/resonite-love/launcher/releases/download/v1.11.1/RESO.Launcher_1.11.1_x64-setup.exe
+    InstallerSha256: 7FE14E6FCCEDBCAB9E7B4745A7D44FB6C31CB5796D38DEDE5BA5BF5F1CCCCCDB
+ManifestType: installer
+ManifestVersion: 1.12.0
